@@ -1,11 +1,11 @@
-```markdown
+
 # User-Auth-Backend 🔐
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.3.2-green)
 ![SQLite](https://img.shields.io/badge/SQLite-3-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-orange)
-
+```markdown
 **User-Auth-Backend** is a simple and efficient user management and authentication system built using **Flask** and **SQLite**. This project allows users to register, log in, and delete their accounts securely.
 
 ---
