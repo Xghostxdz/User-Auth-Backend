@@ -115,7 +115,7 @@
 
 ```
 User-Auth-Backend/
-├── app.py               # Main application file
+├── main.py               # Main application file
 ├── users.db             # SQLite database file
 ├── requirements.txt     # List of dependencies
 ├── README.md            # Project documentation
