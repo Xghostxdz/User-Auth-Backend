@@ -7,6 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-orange)
 ```markdown
 **User-Auth-Backend** is a simple and efficient user management and authentication system built using **Flask** and **SQLite**. This project allows users to register, log in, and delete their accounts securely.
+```
 
 ---
 
@@ -48,7 +49,7 @@
 
 4. Run the application:
    ```bash
-   python app.py
+   python main.py
    ```
 
 5. The API will be available at `http://127.0.0.1:5000`.
@@ -155,4 +156,3 @@ For questions or feedback, feel free to reach out:
 - Thanks to the **Flask** team for an amazing framework.
 - Inspired by secure authentication systems.
 
-```
