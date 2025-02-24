@@ -32,7 +32,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Xghostxdz/User-Auth-Backend.git
+   git clone https://github.com/Xbyit/User-Auth-Backend.git
    cd User-Auth-Backend
    ```
 
@@ -146,7 +146,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For questions or feedback, feel free to reach out:
 
-- **GitHub**: [Xghostxdz](https://github.com/Xghostxdz)
+- **GitHub**: [Xghostxdz](https://github.com/Xbyit)
 - **Telegram**: [Telegram Group](https://t.me/XTOOLPYCHAT)
 
 ---
